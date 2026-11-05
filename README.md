@@ -1,4 +1,4 @@
-# Concordance-Analysis-of-Gremline-Variant-calling-Pipelines-for-WGS-SA-Cohort
+# Concordance-Analysis-of-Germline-Variant-calling-Pipelines-for-WGS-SA-Cohort
 
 Scripts, R code and summary results for a BSc Honours project (Bioinformatics and Computational Biology, Stellenbosch University) that compares three germline variant-calling pipelines on MGI DNBSEQ-T7 whole-genome sequencing data from 44 individuals (39 South African Coloured, 3 African, 2 European).
 
